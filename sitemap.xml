@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tokyo-marriage.pages.dev/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <loc>https://nrb-deungchon-guide.xyz/</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tokyo-marriage.pages.dev/posts/review-001.html</loc>
+    <loc>https://nrb-deungchon-guide.xyz/posts/field_note-001-bk5f3d.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://nrb-deungchon-guide.xyz/posts/review-001-1vyrhst.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://nrb-deungchon-guide.xyz/posts/review-001.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tokyo-marriage.pages.dev/posts/review-002.html</loc>
+    <loc>https://nrb-deungchon-guide.xyz/posts/review-002.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tokyo-marriage.pages.dev/feed.xml</loc>
-    <lastmod>2026-06-05</lastmod>
+    <loc>https://nrb-deungchon-guide.xyz/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
